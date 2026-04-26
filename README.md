@@ -9,4 +9,4 @@ This repository contains materials for my Generative AI research project.
 - Reports: Final report
 - Additional_Materials: Extra notes
 ## Author
-ZIYI QON
+ZIYI QIN
